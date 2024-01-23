@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**SumedhaChillara/SumedhaChillara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Welcome to My AI Journey! 🚀
+### Welcome to My AI Journey! 🚀
 🎓 Hi there! I'm a passionate Graduate Student Assistant at Arizona State University, fueling the minds of budding data enthusiasts in the Statistical Learning course. Beyond the classroom, I'm on a quest for a Master's degree in Artificial Intelligence, where I dive deep into the realms of computer vision, natural language processing, machine learning, and data engineering.
 
 🛠️ In my recent endeavor, I crafted a predictive model centering around Parkinson's disease, weaving the magic of Python, Pandas, and Scikit-learn into the fabric of innovation.
