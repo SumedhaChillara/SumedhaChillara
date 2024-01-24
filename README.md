@@ -1,4 +1,4 @@
-### Hi there 👋 ### Welcome to My AI Journey! 🚀
+### Hi there 👋  Welcome to My Journey! 🚀
 
 🎓 About Me: Grad Student Assistant at ASU, diving into the magic of Statistical Learning. Currently, I'm wokring the art of AI with a focus on computer vision and NLP.
 💻 : Working on a predictive model for Parkinson's disease using Python, Pandas, and Scikit-learn.
